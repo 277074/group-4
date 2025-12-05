@@ -1,8 +1,11 @@
 # group-4
 Group Members:
-Juan Jose Rodríguez Martínez(277074)
-Mario Benito Reduan()
 
+Juan Jose Rodríguez Martínez(277074)
+
+Mario Benito Reduan(277113)
+
+Ivan Sanchez Verde(276911)
 
 All games:
 
